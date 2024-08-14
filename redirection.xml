@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html lang="fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
 <head>
     <meta http-equiv="refresh" content="0; url=https://discord.com/invite/998E463" />
     <title>Redirection</title>
 </head>
 <body>
-    <p>Si vous n'êtes pas redirigé automatiquement, <a href="https://discord.com/invite/998E463">cliquez ici</a>.</p>
+    <p>Vous allez être redirigé vers notre serveur Discord. Si cela ne fonctionne pas, <a href="https://discord.com/invite/998E463">cliquez ici</a>.</p>
 </body>
 </html>
